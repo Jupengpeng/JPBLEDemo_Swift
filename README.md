@@ -197,6 +197,5 @@ func peripheral(_ peripheral: CBPeripheral, didDiscoverServices error: Error?){
 此时可以通过lightblue进行测试，测试前为了方便，先将右上角的hex改为我们常用的编码方式UTF-8，每次写入成功都会将此处的value改变，如图：
  ![characteristic value 改变](https://github.com/Jupengpeng/ImagesResourse/blob/master/IMG_0446.PNG?raw=true)
 
-##### 我的BLE开发大概写到这，欢迎下载 [Demo ](https://github.com/Jupengpeng/JPBLEDemo_Swift.git)
 Objective-C 版本请点击 :  
  [  【iOS】BLE蓝牙开发](http://www.jianshu.com/p/76d12e934e93)
